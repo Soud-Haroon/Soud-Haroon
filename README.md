@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Soud Haroon Spotify Playing" width="350" />](https://open.spotify.com/user/m5w2cdnr22zp6s5zdyzroab5t?si=ebec0b9f353649c9)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Soud Haroon Spotify Playing" width="350" />](https://open.spotify.com/user/31dj2lplsrtw2cvxt5r643kiclby)
 
 <!---
 Soud-Haroon/Soud-Haroon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
